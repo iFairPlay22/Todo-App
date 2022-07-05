@@ -1,29 +1,9 @@
-# todo-app
+# Todo 😗
 
-## Project setup
-```
-npm install
-```
+## Contexte
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Création d'un site web simpliste, permettant de stocker une liste de tâches à faire.
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## Projet
 
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Découverte du framework VueJs.
